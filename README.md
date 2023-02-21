@@ -1,1 +1,1 @@
-A simple and re-usable RactJS-TailwindCSS-ContextAPI boilerplate created by me, for me
+A simple and re-usable ReactJS-TailwindCSS-ContextAPI boilerplate created by me, for me
